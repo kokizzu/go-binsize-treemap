@@ -1,5 +1,9 @@
 # 🔍 Go binary size SVG treemap
 
+<p align="center">
+  ✨ Sponsored by <a href="https://apps.apple.com/app/id6738306589">NDX AI Shopping Assistant</a>
+</p>
+
 > Make treemap breakdown of Go executable binary
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/nikolaydubina/go-binsize-treemap.svg)](https://pkg.go.dev/github.com/nikolaydubina/go-binsize-treemap)
